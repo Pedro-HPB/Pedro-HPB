@@ -1,20 +1,13 @@
- 👋 Hello! Welcome to my Github profile.
- My name is Pedro and my nickname is toothless alligator🐊!
+Hello! Welcome to my GitHub profile. My name is Pedro and my nickname is toothless alligator 🐊!
 
-👾 a little about me : Hello! I'm Pedro, a person passionate about technology and games,
- always looking for new challenges and opportunities to learn and grow. I believe that the combination of dedication, creativity and teamwork can transform ideas into incredible results.
+👾 A little about me: Hello! I'm Pedro, a person passionate about technology and games, always looking for new challenges and opportunities to learn and grow. I believe that the combination of dedication, creativity, and teamwork can transform ideas into incredible results.
 
-💻 I have experience in collaborative work, public sector, design and some manual work, and I'm always open to exploring new possibilities and collaborating with people who share the same passion. 
-I value honesty, clear communication and the constant search for excellence in everything I do.
+💻 I have experience in collaborative work, the public sector, design, and some manual work, and I'm always open to exploring new possibilities and collaborating with people who share the same passion. I value honesty, clear communication, and the constant pursuit of excellence in everything I do.
 
-😄 If you're looking for someone committed, creative and willing to make a difference, let's talk! I'm ready for new projects and partnerships.
+😄 If you're looking for someone committed, creative, and willing to make a difference, let's talk! I'm ready for new projects and partnerships.
 
-🎓I graduated from high school and am currently studying at Alura to become a developer in the future.
+🎓 I completed high school and am currently studying computer science at the State University of Paraná (UNESPAR) to become a developer.
 
-👻 Curiosity : I'm an athlete, I love animals, especially cats, I've been passionate about games since I was a child, I can't live without music and I'm a movie buff.
+👻 Fun Facts: I'm an athlete, I love animals, especially cats, I've been passionate about games since I was a child, I can't live without music, and I'm a film buff.
 
-📫 how to contact me :
-♦️ My Instagram - "pedro_borges9"
-♠️ My Twitter - "LVader2"
-♥️ My LetterBox - "Pedrola" "Jaca_JB"
-♣️ My Discord - "pedrola11"
+📫 How to contact me: ♦️ My Instagram - "pedro_borges9" ♠️ My Twitter - "LVader2" ♥️ My Letterboxd - "Pedrola" "Jaca_JB" ♣️ My Discord - "pedrola11"
