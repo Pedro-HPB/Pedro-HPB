@@ -1,4 +1,4 @@
-Hello! Welcome to my GitHub profile. My name is Pedro and my nickname is toothless alligator 🐊!
+Hello! Welcome to my GitHub profile. My name is Pedro and I am 19 years old.✌️
 
 👾 A little about me: Hello! I'm Pedro, a person passionate about technology and games, always looking for new challenges and opportunities to learn and grow. I believe that the combination of dedication, creativity, and teamwork can transform ideas into incredible results.
 
